@@ -1,0 +1,60 @@
+{
+  "streams": [
+    {
+      "title": "React from scratch",
+      "description": "this is a fully bootstarpped course for beginner ",
+      "id": 1
+    },
+    {
+      "title": "Intro React",
+      "description": "Hooks",
+      "id": 2
+    },
+    {
+      "title": "Hello world",
+      "description": "code from scratch",
+      "id": 3
+    },
+    {
+      "title": "Next Js with react",
+      "description": "You will be able to build both SSR and SSG apps",
+      "userId": "115476155582856224331",
+      "id": 4
+    },
+    {
+      "title": "unexpected behaviour",
+      "description": "How it happend",
+      "userId": "115476155582856224331",
+      "id": 6
+    },
+    {
+      "title": "Forex trading",
+      "description": "passive income ",
+      "userId": "115476155582856224331",
+      "id": 8
+    },
+    {
+      "title": "programmatic navigation",
+      "description": "iam ekc",
+      "userId": "115476155582856224331",
+      "id": 9
+    },
+    {
+      "title": "GraphQL",
+      "description": "API for project",
+      "id": 10
+    },
+    {
+      "title": "svelte",
+      "description": "New web developer framework",
+      "userId": "115476155582856224331",
+      "id": 11
+    },
+    {
+      "title": "Evening",
+      "description": "snacks",
+      "userId": "115476155582856224331",
+      "id": 12
+    }
+  ]
+}
